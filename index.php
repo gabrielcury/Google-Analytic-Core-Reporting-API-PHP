@@ -15,7 +15,7 @@
 		
 	$client->setAssertionCredentials(
 	    new Google_AssertionCredentials(
-		    	'EMAIL ADDESS FROM GOOGLE CONSOLE WITHIN SERVICE ACCOUNT',//EMAIL ADDRESS FROM CONSOLE
+		    	'EMAIL ADDRESS FROM GOOGLE CONSOLE WITHIN SERVICE ACCOUNT',//EMAIL ADDRESS FROM CONSOLE
 	    	array('https://www.googleapis.com/auth/analytics.readonly'),
 	    	file_get_contents('PRIVATE KEY PATH') // keyfile you downloaded
 	    )

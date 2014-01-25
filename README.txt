@@ -6,7 +6,7 @@
 
 2.	Create a new project by choosing Create option from the dropdown menu located at top left.
 
-3.	Next step is to enable Analytic API from the API sercies panel.
+3.	Next step is to enable Analytic API from the Service API panel.
 
 4.	Next create project credentials. Make sure you choose the Service Account. It will also ask 	you to download the private key file. Doenload the file and store somewhere safe on to your 	web server.
 
